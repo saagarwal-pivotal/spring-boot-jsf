@@ -1,1 +1,4 @@
+com/jwt/config/JSFConfiguration.class
+com/jwt/BootJsfApplication.class
 com/jwt/jsf/bean/PersonBean.class
+com/jwt/config/ApplicationConfig.class
